@@ -1,0 +1,16 @@
+PODS:
+  - UIImageExtension (0.1.0)
+
+DEPENDENCIES:
+  - UIImageExtension (from `../`)
+
+EXTERNAL SOURCES:
+  UIImageExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UIImageExtension: 4070bb9d52ca0a0fcd48150187b6244c4acb6ec9
+
+PODFILE CHECKSUM: 5c5989c5cc1a2478e2b67ddb5f47c375c8d766f4
+
+COCOAPODS: 1.8.4
